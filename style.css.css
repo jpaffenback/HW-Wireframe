@@ -1,0 +1,76 @@
+body{
+    height:100%;
+    width:960px;
+    font-size: 18px;
+    background: #777;
+    font-family: arial;
+    color:#777;
+}
+
+header{
+    margin: 5px;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+    background:white;
+
+   
+}
+
+nav{
+    margin: 5px;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+    background:white;
+}
+
+section{
+    margin: 5px;
+    min-height: 30px;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    width: 495px;
+    background:white;
+    min-height: 300px;
+    
+}
+
+article{
+    text-align: center;
+    color:white;
+    background:#777;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    width: 70%;
+
+    
+}
+
+
+aside{
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+    float: right;
+    width: 355px;
+    background:white;
+    min-height: 300px;
+
+}
+
+footer{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    background:white;
+    margin-bottom: 50px;
+    width:940px;
+    float: left;
+    
+    
+
+}
